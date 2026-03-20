@@ -41,3 +41,7 @@ Use Case
 3.Add deadlines and reminders
 
 4.Create a web-based version
+
+**How It’s Made (Summary)**
+
+This project is built using Python in a Jupyter Notebook. It uses basic programming concepts like lists and functions to manage tasks. The user can interact with the program through simple input commands to add, view, update, and delete tasks. The logic focuses on storing tasks in a list and modifying them based on user actions. This makes the application simple, beginner-friendly, and easy to understand.
